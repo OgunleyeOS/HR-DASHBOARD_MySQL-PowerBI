@@ -1,4 +1,5 @@
 # HR-DASHBOARD_MySQL-PowerBI
+![Employee Report VIZ](https://github.com/user-attachments/assets/98882900-bc2d-4046-a4f6-761822941c64)
 
 ## Data Overview
 This project involves the analysis of HR data from 2000 to 2020, comprising over 22,000 rows of employee records. The analysis focuses on various aspects of the workforce, including gender, age, ethnicity and turnover rates, while providing insights into the geographic distribution and employment tenure across departments.
