@@ -1,4 +1,6 @@
-# HR-DASHBOARD_MySQL-PowerBI
+# HR Data Analysis: Workforce Insights(2000-2020)
+
+
 ![Employee Report VIZ](https://github.com/user-attachments/assets/98882900-bc2d-4046-a4f6-761822941c64)
 
 ## Data Overview
